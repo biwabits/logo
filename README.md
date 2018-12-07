@@ -2,7 +2,7 @@
 
 >This repository contains the official Biwabit logos in PNG and SVG form.
 
-[Inch-CI](https://inch-ci.org/assets/badge-example-b71f9e833318f66f64b3f23877113051.svg)
+
 
 | Variant | PNG | SVG |
 |---------|-----|-----|
@@ -35,5 +35,3 @@ FOR MORE INFORMATION REGARDING THE AUTHORIZED USES OF THESE ITEMS PLEASE CONTACT
 
 
 [biwabit-url]: https://biwabit.com
-#logos.github.io
-# logos.github.io
