@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1757px" height="500px" viewBox="0 0 1757 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>official-logo-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="official-logo-white" transform="translate(-24.000000, 0.000000)">
+            <g id="Group-2">
+                <path d="M152.19426,-5.17920154e-15 L395.80574,5.17920154e-15 C440.381677,-3.00926524e-15 456.545989,4.64128056 472.842285,13.3566352 C489.138581,22.0719898 501.92801,34.8614185 510.643365,51.1577148 C519.358719,67.4540111 524,83.618323 524,128.19426 L524,371.80574 C524,416.381677 519.358719,432.545989 510.643365,448.842285 C501.92801,465.138581 489.138581,477.92801 472.842285,486.643365 C456.545989,495.358719 440.381677,500 395.80574,500 L152.19426,500 C107.618323,500 91.4540111,495.358719 75.1577148,486.643365 C58.8614185,477.92801 46.0719898,465.138581 37.3566352,448.842285 C28.6412806,432.545989 24,416.381677 24,371.80574 L24,128.19426 C24,83.618323 28.6412806,67.4540111 37.3566352,51.1577148 C46.0719898,34.8614185 58.8614185,22.0719898 75.1577148,13.3566352 C91.4540111,4.64128056 107.618323,3.00926524e-15 152.19426,-5.17920154e-15 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <g id="Group" transform="translate(0.000000, 70.000000)" fill="#FFFFFF" font-family="STHeitiTC-Light, Heiti TC" font-size="350" font-weight="300">
+                    <text id="b'">
+                        <tspan x="255.15" y="333">b</tspan>
+                    </text>
+                    <text id="b" transform="translate(210.998125, 204.473231) scale(-1, -1) rotate(-130.000000) translate(-210.998125, -204.473231) ">
+                        <tspan x="91.6481249" y="330.473231">b</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="biwabit" fill="#FFFFFF" font-family="STHeitiTC-Light, Heiti TC" font-size="350" font-weight="300">
+                <tspan x="524.025" y="407">biwabit</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

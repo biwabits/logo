@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>biwabit-logo-rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="biwabit-logo-rectangle" transform="translate(-42.000000, 0.000000)">
+            <g id="Group-">
+                <path d="M170.19426,-5.17920154e-15 L413.80574,5.17920154e-15 C458.381677,-3.00926524e-15 474.545989,4.64128056 490.842285,13.3566352 C507.138581,22.0719898 519.92801,34.8614185 528.643365,51.1577148 C537.358719,67.4540111 542,83.618323 542,128.19426 L542,371.80574 C542,416.381677 537.358719,432.545989 528.643365,448.842285 C519.92801,465.138581 507.138581,477.92801 490.842285,486.643365 C474.545989,495.358719 458.381677,500 413.80574,500 L170.19426,500 C125.618323,500 109.454011,495.358719 93.1577148,486.643365 C76.8614185,477.92801 64.0719898,465.138581 55.3566352,448.842285 C46.6412806,432.545989 42,416.381677 42,371.80574 L42,128.19426 C42,83.618323 46.6412806,67.4540111 55.3566352,51.1577148 C64.0719898,34.8614185 76.8614185,22.0719898 93.1577148,13.3566352 C109.454011,4.64128056 125.618323,3.00926524e-15 170.19426,-5.17920154e-15 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <g id="Text" transform="translate(0.000000, 40.000000)" fill="#FFFFFF" font-family="STHeitiTC-Light, Heiti TC" font-size="350" font-weight="300">
+                    <text id="b'">
+                        <tspan x="269.65" y="349">b</tspan>
+                    </text>
+                    <text id="b" transform="translate(225.063865, 220.944663) scale(-1, -1) rotate(-130.000000) translate(-225.063865, -220.944663) ">
+                        <tspan x="105.713865" y="346.944663">b</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
