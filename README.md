@@ -3,12 +3,11 @@
 >This repository contains the official Biwabit logos in PNG and SVG form.
 
 
-
 | Variant | PNG | SVG |
 |---------|-----|-----|
-| Rectangle | [<img src="https://biwabit.com/logo/biwabit-logo-rectangle.png" width="56" height="56">](https://github.com/biwabit/logos.github.io/issues/1) | [<img src="https://biwabit.com/logo/biwabit-logo-rectangle.svg" width="56" height="56">](https://github.com/biwabit/logos.github.io/issues/2) |
-| White     | [<img src="https://biwabit.com/logo/official-logo-white.png" width="200" height="56">](https://github.com/biwabit/logos.github.io/issues/3) | [<img src="https://biwabit.com/logo/official-logo-white.svg" width="200" height="56">](https://github.com/biwabit/logos.github.io/issues/4) |
-| Dark      | [<img src="https://biwabit.com/logo/official-logo-dark.png" width="200" height="56">](https://github.com/biwabit/logos.github.io/issues/5) | [<img src="https://biwabit.com/logo/official-logo-dark.svg" width="200" height="56">](https://github.com/biwabit/logos.github.io/issues/6) |
+| Rectangle | [<img src="https://biwabit.com/logo/biwabit-logo-rectangle.png" width="56" height="56">] | [<img src="https://biwabit.com/logo/biwabit-logo-rectangle.svg" width="56" height="56">] |
+| White     | [<img src="https://biwabit.com/logo/official-logo-white.png" width="200" height="56">] | [<img src="https://biwabit.com/logo/official-logo-white.svg" width="200" height="56">]|
+| Dark      | [<img src="https://biwabit.com/logo/official-logo-dark.png" width="200" height="56">] | [<img src="https://biwabit.com/logo/official-logo-dark.svg" width="200" height="56">] |
 
 ### Legal
 In short, the Biwabit logos  represent only Biwabit and should not be used to 
