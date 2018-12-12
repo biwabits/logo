@@ -1,4 +1,4 @@
-## Biwabit Logos
+## Biwabit Logo
 
 >This repository contains the official Biwabit logos in PNG and SVG form.
 
