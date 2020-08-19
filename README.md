@@ -32,4 +32,4 @@ FOR MORE INFORMATION REGARDING THE AUTHORIZED USES OF THESE ITEMS PLEASE CONTACT
 
 
 
-[biwabit-url]: https://biwabit.com
+[biwabits-url]: https://biwabits.com
