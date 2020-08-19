@@ -5,9 +5,9 @@
 
 | Variant | PNG | SVG |
 |---------|-----|-----|
-| Rectangle | <img src="https://raw.githubusercontent.com/biwabits/logo/master/biwabit-logo-rectangle.png" width="56" height="56"> | <img src="https://biwabit.github.io/logo/biwabit-logo-rectangle.svg" width="56" height="56"> |
-| White     | <img src="https://biwabit.github.io/logo/official-logo-white.png" width="200" height="56"> | <img src="https://biwabit.github.io/logo/official-logo-white.svg" width="200" height="56">|
-| Dark      | <img src="https://biwabit.github.io/logo/official-logo-dark.png" width="200" height="56"> | <img src="https://biwabit.github.io/logo/official-logo-dark.svg" width="200" height="56"> |
+| Rectangle | <img src="https://raw.githubusercontent.com/biwabits/logo/master/biwabit-logo-rectangle.png" width="56" height="56"> | <img src="https://raw.githubusercontent.com/biwabits/logo/master/biwabit-logo-rectangle.svg" width="56" height="56"> |
+| White     | <img src="https://raw.githubusercontent.com/biwabits/logo/master/official-logo-white.png" width="200" height="56"> | <img src="https://raw.githubusercontent.com/biwabits/logo/master/official-logo-white.svg" width="200" height="56">|
+| Dark      | <img src="https://raw.githubusercontent.com/biwabits/logo/master/official-logo-dark.png" width="200" height="56"> | <img src="https://raw.githubusercontent.com/biwabits/logo/master/official-logo-dark.svg" width="200" height="56"> |
 
 ### Legal
 In short, the Biwabits logos  represent only Biwabits and should not be used to 
